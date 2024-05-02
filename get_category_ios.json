@@ -1,0 +1,217 @@
+{
+    "status": 1,
+    "status_code": 200,
+    "msg": "Get successfully!",
+    "data": [
+        {
+            "cat_id": "2",
+            "cat_name": "Popular",
+            "cat_image": "popular.png",
+            "visible": "1",
+            "order": "205",
+            "order_ios": "0",
+            "created_date": "2020-12-02 13:23:37",
+            "updated_date": "2021-01-19 16:00:19"
+        },
+        {
+            "cat_id": "1",
+            "cat_name": "Latest",
+            "cat_image": "latest.png",
+            "visible": "1",
+            "order": "204",
+            "order_ios": "1",
+            "created_date": "2020-12-02 13:26:45",
+            "updated_date": "2020-12-02 18:56:45"
+        },
+        {
+            "cat_id": "23",
+            "cat_name": "Particle",
+            "cat_image": "particle.png",
+            "visible": "1",
+            "order": "201",
+            "order_ios": "2",
+            "created_date": "2020-12-02 13:33:36",
+            "updated_date": "2020-12-02 19:03:36"
+        },
+        {
+            "cat_id": "20",
+            "cat_name": "Magical",
+            "cat_image": "magical.png",
+            "visible": "1",
+            "order": "197",
+            "order_ios": "1",
+            "created_date": "2020-12-02 13:32:47",
+            "updated_date": "2020-12-02 19:02:47"
+        },
+        {
+            "cat_id": "6",
+            "cat_name": "Love",
+            "cat_image": "love.png",
+            "visible": "1",
+            "order": "196",
+            "order_ios": "1",
+            "created_date": "2020-12-02 13:28:35",
+            "updated_date": "2020-12-02 18:58:35"
+        },
+        {
+            "cat_id": "19",
+            "cat_name": "News",
+            "cat_image": "news.png",
+            "visible": "1",
+            "order": "194",
+            "order_ios": "1",
+            "created_date": "2020-12-02 13:32:28",
+            "updated_date": "2020-12-02 19:02:28"
+        },
+        {
+            "cat_id": "21",
+            "cat_name": "Lyrical",
+            "cat_image": "lyrical.png",
+            "visible": "1",
+            "order": "193",
+            "order_ios": "1",
+            "created_date": "2020-12-02 13:33:03",
+            "updated_date": "2020-12-02 19:03:03"
+        },
+        {
+            "cat_id": "10",
+            "cat_name": "Friendship",
+            "cat_image": "friendship.png",
+            "visible": "1",
+            "order": "192",
+            "order_ios": "1",
+            "created_date": "2020-12-02 13:29:44",
+            "updated_date": "2020-12-02 18:59:44"
+        },
+        {
+            "cat_id": "15",
+            "cat_name": "Monsoon",
+            "cat_image": "d039aeac55c175cef3ae8d56582e37d6.png",
+            "visible": "1",
+            "order": "192",
+            "order_ios": "0",
+            "created_date": "2021-07-24 09:24:10",
+            "updated_date": "2021-07-24 14:55:22"
+        },
+        {
+            "cat_id": "18",
+            "cat_name": "Navratri",
+            "cat_image": "navratri.png",
+            "visible": "1",
+            "order": "192",
+            "order_ios": "1",
+            "created_date": "2020-12-02 13:32:13",
+            "updated_date": "2020-12-02 19:02:13"
+        },
+        {
+            "cat_id": "9",
+            "cat_name": "Annivarsary",
+            "cat_image": "annivarsary.png",
+            "visible": "1",
+            "order": "191",
+            "order_ios": "1",
+            "created_date": "2020-12-02 13:29:29",
+            "updated_date": "2020-12-02 18:59:29"
+        },
+        {
+            "cat_id": "3",
+            "cat_name": "Diwali",
+            "cat_image": "diwali.png",
+            "visible": "1",
+            "order": "1",
+            "order_ios": "1",
+            "created_date": "2020-12-02 13:27:28",
+            "updated_date": "2020-12-02 18:57:28"
+        },
+        {
+            "cat_id": "5",
+            "cat_name": "2021",
+            "cat_image": "newyear.png",
+            "visible": "1",
+            "order": "1",
+            "order_ios": "1",
+            "created_date": "2020-12-02 13:28:13",
+            "updated_date": "2020-12-28 20:46:21"
+        },
+        {
+            "cat_id": "7",
+            "cat_name": "Dialogue",
+            "cat_image": "dialogue.png",
+            "visible": "1",
+            "order": "1",
+            "order_ios": "1",
+            "created_date": "2020-12-02 13:28:50",
+            "updated_date": "2020-12-02 18:58:50"
+        },
+        {
+            "cat_id": "8",
+            "cat_name": "Birthday",
+            "cat_image": "birthday.png",
+            "visible": "1",
+            "order": "1",
+            "order_ios": "1",
+            "created_date": "2020-12-02 13:29:14",
+            "updated_date": "2020-12-02 18:59:14"
+        },
+        {
+            "cat_id": "11",
+            "cat_name": "Mahadev",
+            "cat_image": "mahadev.png",
+            "visible": "1",
+            "order": "1",
+            "order_ios": "1",
+            "created_date": "2020-12-02 13:30:11",
+            "updated_date": "2020-12-02 19:00:11"
+        },
+        {
+            "cat_id": "14",
+            "cat_name": "Indian",
+            "cat_image": "indian.png",
+            "visible": "1",
+            "order": "1",
+            "order_ios": "1",
+            "created_date": "2020-12-02 13:31:03",
+            "updated_date": "2020-12-02 19:01:03"
+        },
+        {
+            "cat_id": "16",
+            "cat_name": "Ganesha",
+            "cat_image": "ganesha.png",
+            "visible": "1",
+            "order": "1",
+            "order_ios": "1",
+            "created_date": "2020-12-02 13:31:31",
+            "updated_date": "2020-12-02 19:01:31"
+        },
+        {
+            "cat_id": "17",
+            "cat_name": "Janmashtami",
+            "cat_image": "janmashtami.png",
+            "visible": "1",
+            "order": "1",
+            "order_ios": "1",
+            "created_date": "2020-12-02 13:31:48",
+            "updated_date": "2020-12-02 19:01:48"
+        },
+        {
+            "cat_id": "24",
+            "cat_name": "Rakhi",
+            "cat_image": "rakhi.png",
+            "visible": "1",
+            "order": "1",
+            "order_ios": "1",
+            "created_date": "2020-12-02 13:31:19",
+            "updated_date": "2020-12-02 19:01:19"
+        },
+        {
+            "cat_id": "25",
+            "cat_name": "Baby",
+            "cat_image": "181c11291dc4e56be72520782bc63c30.png",
+            "visible": "1",
+            "order": "0",
+            "order_ios": "0",
+            "created_date": "2021-07-24 09:24:32",
+            "updated_date": "0000-00-00 00:00:00"
+        }
+    ]
+}
