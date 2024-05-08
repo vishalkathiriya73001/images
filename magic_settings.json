@@ -2,9 +2,9 @@
   "msg": "Thank You",
   "status_code": 200,
   "data": {
-    "isAdsShow": "1",
-    "consentMessage": "1",
-    "isActive_Interestial": "1",
+    "isAdsShow": "0",
+    "consentMessage": "0",
+    "isActive_Interestial": "0",
     "interestial_Count": "3",
     "ads_Type_Open": "google",
     "ads_Type_Inter": "google",
