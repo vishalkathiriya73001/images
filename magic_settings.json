@@ -21,7 +21,7 @@
     "fb_Native": "986758519378347_986809746039891",
     "fb_Reward": "YOUR_PLACEMENT_ID",
     "String_PU": "YOUR_PLACEMENT_ID",
-    "instagramButton": true,
+    "instagramButton": false,
     "isInnerNative": "1",
     "isRanderNative": "0",
     "isDownloadNative": "0",
