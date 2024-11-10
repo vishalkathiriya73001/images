@@ -24,26 +24,6 @@
             "updated_date": "2020-12-02 18:56:45"
         },
         {
-            "cat_id": "3",
-            "cat_name": "Diwali",
-            "cat_image": "diwali.png",
-            "visible": "1",
-            "order": "1",
-            "order_ios": "1",
-            "created_date": "2020-12-02 13:27:28",
-            "updated_date": "2020-12-02 18:57:28"
-        },
-        {
-            "cat_id": "5",
-            "cat_name": "2025",
-            "cat_image": "newyear.png",
-            "visible": "1",
-            "order": "1",
-            "order_ios": "1",
-            "created_date": "2020-12-02 13:28:13",
-            "updated_date": "2020-12-28 20:46:21"
-        },
-        {
             "cat_id": "23",
             "cat_name": "Particle",
             "cat_image": "particle.png",
@@ -62,6 +42,46 @@
             "order_ios": "1",
             "created_date": "2020-12-02 13:32:47",
             "updated_date": "2020-12-02 19:02:47"
+        },
+        {
+            "cat_id": "21",
+            "cat_name": "Lyrical",
+            "cat_image": "lyrical.png",
+            "visible": "1",
+            "order": "193",
+            "order_ios": "1",
+            "created_date": "2020-12-02 13:33:03",
+            "updated_date": "2020-12-02 19:03:03"
+        },
+        {
+            "cat_id": "6",
+            "cat_name": "Love",
+            "cat_image": "love.png",
+            "visible": "1",
+            "order": "196",
+            "order_ios": "1",
+            "created_date": "2020-12-02 13:28:35",
+            "updated_date": "2020-12-02 18:58:35"
+        },
+        {
+            "cat_id": "3",
+            "cat_name": "Diwali",
+            "cat_image": "diwali.png",
+            "visible": "1",
+            "order": "1",
+            "order_ios": "1",
+            "created_date": "2020-12-02 13:27:28",
+            "updated_date": "2020-12-02 18:57:28"
+        },
+        {
+            "cat_id": "5",
+            "cat_name": "2025",
+            "cat_image": "newyear.png",
+            "visible": "1",
+            "order": "1",
+            "order_ios": "1",
+            "created_date": "2020-12-02 13:28:13",
+            "updated_date": "2020-12-28 20:46:21"
         },
         {
             "cat_id": "16",
@@ -84,16 +104,6 @@
             "updated_date": "2020-12-02 19:02:13"
         },
         {
-            "cat_id": "6",
-            "cat_name": "Love",
-            "cat_image": "love.png",
-            "visible": "1",
-            "order": "196",
-            "order_ios": "1",
-            "created_date": "2020-12-02 13:28:35",
-            "updated_date": "2020-12-02 18:58:35"
-        },
-        {
             "cat_id": "19",
             "cat_name": "News",
             "cat_image": "news.png",
@@ -102,16 +112,6 @@
             "order_ios": "1",
             "created_date": "2020-12-02 13:32:28",
             "updated_date": "2020-12-02 19:02:28"
-        },
-        {
-            "cat_id": "21",
-            "cat_name": "Lyrical",
-            "cat_image": "lyrical.png",
-            "visible": "1",
-            "order": "193",
-            "order_ios": "1",
-            "created_date": "2020-12-02 13:33:03",
-            "updated_date": "2020-12-02 19:03:03"
         },
         {
             "cat_id": "10",
