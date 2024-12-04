@@ -37,30 +37,30 @@
     },
     "adsLocal": [
         {
-            "appStoreID": "6480342385",
-            "name": "Instagram Downloader & Repost Tools",
-            "title": "IGSaver for Instagram",
-            "description": "Download Video Instagram, Photo, Reels, Stories, IGTV online.",
-            "media": "https://vishalkathiriya73001.github.io/Saver/igsaver.png",
-            "appIcon": "",
-            "backgroundColor": "0c0c0c",
-            "textColor": "ffffff",
-            "tintColor": "fe2f77",
-            "fullscreen": false,
-            "transparent": false
+          "appStoreID": "6480342385",
+          "name": "Instagram Downloader & Repost Tools",
+          "title": "IGSaver for Instagram",
+          "description": "Download Video Instagram, Photo, Reels, Stories, IGTV online.",
+          "media": "https://vishalkathiriya73001.github.io/Saver/igsaver.png",
+          "appIcon": "",
+          "backgroundColor": "0c0c0c",
+          "textColor": "ffffff",
+          "tintColor": "fe2f77",
+          "fullscreen": false,
+          "transparent": false
         },
         {
-            "appStoreID": "1552144592",
-            "name": "Music Video Maker and Instagram Downloader",
-            "title": "Magically: Music Video Maker",
-            "description": "Magically Video Maker will help you to make the awesome effective video.",
-            "media": "https://vishalkathiriya73001.github.io/Saver/megic.png",
-            "appIcon": "",
-            "backgroundColor": "0c0c0c",
-            "textColor": "ffffff",
-            "tintColor": "fe2f77",
-            "fullscreen": false,
-            "transparent": false
+          "appStoreID": "1569814644",
+          "name": "Easy Phone Cleaner Master",
+          "title": "Easy Phone Cleaner Master",
+          "description": "Clean duplicates, screenshots, and similar photos on iPhone in one tap.",
+          "media": "https://vishalkathiriya73001.github.io/Saver/megic.png",
+          "appIcon": "",
+          "backgroundColor": "0c0c0c",
+          "textColor": "ffffff",
+          "tintColor": "fe2f77",
+          "fullscreen": false,
+          "transparent": false
         }
-    ]
+     ]
 }
