@@ -25,6 +25,7 @@
         "isNewDashBord": true,
         "menu": ["downloader", "menu", "history", "moreapp", "ads", "share"],
         "instagramButton": true,
+        "isHomeNativeBig": true,
         "isRingtone": true,
         "isInnerNative": "1",
         "isRanderNative": "1",
