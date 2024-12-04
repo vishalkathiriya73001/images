@@ -42,7 +42,7 @@
           "title": "IGSaver for Instagram",
           "description": "Download Video Instagram, Photo, Reels, Stories, IGTV online.",
           "media": "https://vishalkathiriya73001.github.io/Saver/igsaver.png",
-          "appIcon": "",
+          "appIcon": "https://vishalkathiriya73001.github.io/Saver/logo.jpg",
           "backgroundColor": "0c0c0c",
           "textColor": "ffffff",
           "tintColor": "fe2f77",
