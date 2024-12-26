@@ -38,6 +38,13 @@
     },
     "categoryWallpaper": [
         {
+          "cat_id": "61",
+          "cat_name": "Hot Girls AI",
+          "cat_is_active": "1",
+          "folder_name": "",
+          "images": ""
+        },
+        {
           "cat_id": "63",
           "cat_name": "AI Wallpapers",
           "cat_is_active": "1",
