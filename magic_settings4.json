@@ -23,7 +23,7 @@
         "fb_Reward": "YOUR_PLACEMENT_ID",
         "String_PU": "YOUR_PLACEMENT_ID",
         "isNewDashBord": true,
-        "menu": ["downloader", "menu", "history"],
+        "menu": ["menu", "history"],
         "instagramButton": true,
         "isHomeNativeBig": false,
         "isRingtone": true,
