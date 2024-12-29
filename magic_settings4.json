@@ -44,7 +44,8 @@
         "MGSearchListVCNative": true,
         "MGRignTonePlayerVCBanner": true,
         "MGAudioEditVCNative": true,
-        "MGMp3HistoryVCNative": true,        
+        "MGMp3HistoryVCNative": true,  
+        "MGWallHistoryVCNative": true,  
         "String_PL": "https://unicode612.github.io/web/ios_privacy_policy.html",
         "garageband": "wallpaper/catImages/garageband.png"
     },
