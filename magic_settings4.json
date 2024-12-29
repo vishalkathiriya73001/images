@@ -46,6 +46,7 @@
         "MGAudioEditVCNative": true,
         "MGMp3HistoryVCNative": true,  
         "MGWallHistoryVCNative": true,  
+        "MGLummiVCBanner": true,
         "String_PL": "https://unicode612.github.io/web/ios_privacy_policy.html",
         "garageband": "wallpaper/catImages/garageband.png"
     },
