@@ -4,7 +4,7 @@
     "status_code": 200,
     "data": {
         "isAdsShow": "0",
-        "consentMessage": "0",
+        "consentMessage": "1",
         "isActive_Interestial": "0",
         "interestial_Count": "5",
         "ads_Type_Open": "google",
