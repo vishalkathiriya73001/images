@@ -30,7 +30,7 @@
         "isHomeNative": "1",
         "isLocalAds": "0",
         "isRingtone": true,
-        "isNewDashBord": true,
+        "isNewDashBord": false,
         "instagramButton": false,
         "isHomeNativeBig": false,
         "MGDirectInterestial": false,
