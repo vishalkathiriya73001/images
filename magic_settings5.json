@@ -3,10 +3,10 @@
     "msg": "Thank You",
     "status_code": 200,
     "data": {
-        "isAdsShow": "1",
-        "consentMessage": "1",
-        "isActive_Interestial": "1",
-        "interestial_Count": "5",
+        "isAdsShow": "0",
+        "consentMessage": "0",
+        "isActive_Interestial": "0",
+        "interestial_Count": "4",
         "ads_Type_Open": "google",
         "ads_Type_Inter": "google",
         "ads_Type_Native": "google",
@@ -90,19 +90,6 @@
       ],
     "adsLocal": [
         {
-          "appStoreID": "6480342385",
-          "name": "Instagram Downloader & Repost Tools",
-          "title": "IGSaver for Instagram",
-          "description": "Download Video Instagram, Photo, Reels, Stories, IGTV online.",
-          "media": "https://vishalkathiriya73001.github.io/Saver/igsaver.png",
-          "appIcon": "https://vishalkathiriya73001.github.io/Saver/logo.jpg",
-          "backgroundColor": "0c0c0c",
-          "textColor": "ffffff",
-          "tintColor": "fe2f77",
-          "fullscreen": false,
-          "transparent": false
-        },
-        {
           "appStoreID": "1569814644",
           "name": "Easy Phone Cleaner Master",
           "title": "Easy Phone Cleaner Master",
@@ -112,6 +99,19 @@
           "backgroundColor": "0c0c0c",
           "textColor": "ffffff",
           "tintColor": "0086FF",
+          "fullscreen": false,
+          "transparent": false
+        },
+        {
+          "appStoreID": "6480342385",
+          "name": "Instagram Downloader & Repost Tools",
+          "title": "IGSaver for Instagram",
+          "description": "Download Video Instagram, Photo, Reels, Stories, IGTV online.",
+          "media": "https://vishalkathiriya73001.github.io/Saver/igsaver.png",
+          "appIcon": "https://vishalkathiriya73001.github.io/Saver/logo.jpg",
+          "backgroundColor": "0c0c0c",
+          "textColor": "ffffff",
+          "tintColor": "fe2f77",
           "fullscreen": false,
           "transparent": false
         }
