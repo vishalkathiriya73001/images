@@ -30,6 +30,7 @@
         "isHomeNative": "1",
         "isLocalAds": "0",
         "isRingtone": true,
+        "isShowAdsTrackingScreen": true,
         "isNewDashBord": true,
         "instagramButton": true,
         "isHomeNativeBig": false,
