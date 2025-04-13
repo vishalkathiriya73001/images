@@ -34,7 +34,7 @@
         "isNewDashBord": false,
         "instagramButton": false,
         "isHomeNativeBig": false,
-        "isInappShow": "1",
+        "isInappShow": true,
         "MGDirectInterestial": false,
         "MGWallPaperVCNative": false,
         "MGRushchatWallVCNative": false,
