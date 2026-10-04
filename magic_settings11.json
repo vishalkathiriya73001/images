@@ -5,7 +5,7 @@
     "status_code": 200,
     "data": {
         "isShowAllVideo": "0",
-        "isAdsShow": "1",
+        "isAdsShow": "0",
         "consentMessage": "0",
         "isActive_Interestial": "0",
         "interestial_Count": "4",
