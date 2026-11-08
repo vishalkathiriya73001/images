@@ -24,6 +24,7 @@
         "fb_Reward": "YOUR_PLACEMENT_ID",
         "String_PU": "YOUR_PLACEMENT_ID",
         "menu": ["menu", "history", "moreapp"],
+        "menu_history": ["MV Vidos", "MP3", "Photos"],
         "isInnerNative": "1",
         "isRanderNative": "1",
         "isDownloadNative": "0",
