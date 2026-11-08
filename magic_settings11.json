@@ -23,7 +23,7 @@
         "fb_Native": "986758519378347_986809746039891",
         "fb_Reward": "YOUR_PLACEMENT_ID",
         "String_PU": "YOUR_PLACEMENT_ID",
-        "menu": ["menu", "history", "moreapp"],
+        "menu": ["menu", "history", "moreapp", "share"],
         "menu_history": ["MV Videos", "Audio & Tracks", "My Photos"],
         "isInnerNative": "1",
         "isRanderNative": "1",
