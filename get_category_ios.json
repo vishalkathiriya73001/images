@@ -14,16 +14,6 @@
             "updated_date": "2020-12-02 18:57:28"
         },
         {
-            "cat_id": "5",
-            "cat_name": "2025",
-            "cat_image": "newyear.png",
-            "visible": "1",
-            "order": "1",
-            "order_ios": "1",
-            "created_date": "2020-12-02 13:28:13",
-            "updated_date": "2020-12-28 20:46:21"
-        },
-        {
             "cat_id": "16",
             "cat_name": "Ganesha",
             "cat_image": "ganesha.png",
